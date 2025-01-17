@@ -2,31 +2,16 @@
 Using a ResNet-based Unet with Variational Autoencoder (VAE) to perform morphs between faces.
 
 ## Example 0
-<video width="400" controls>
-  <source src="./Examples/morph0.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Example 0](./Examples/morph0.gif)
 
 ## Example 1
-<video width="400" controls>
-  <source src="./Examples/morph1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Example 1](./Examples/morph1.gif)
 
 ## Example 2
-<video width="400" controls>
-  <source src="./Examples/morph2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Example 2](./Examples/morph2.gif)
 
 ## Example 3
-<video width="400" controls>
-  <source src="./Examples/morph3.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Example 3](./Examples/morph3.gif)
 
 ## Example 4
-<video width="400" controls>
-  <source src="./Examples/morph4.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Example 4](./Examples/morph4.gif)

@@ -1,2 +1,2 @@
 # FaceMorph-VAE
-Using a Variational Autoencoder (VAE) to perform morphs between faces.
+Using a ResNet-based Unet with Variational Autoencoder (VAE) to perform morphs between faces.
